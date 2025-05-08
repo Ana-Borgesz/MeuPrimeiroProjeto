@@ -1,6 +1,6 @@
 # Aluna Ana 
 ***
-# Meu Priemiro Projeto
+# Meu Primeiro Projeto
 ## Atividade de SW
 ***
 (https://github.com)
